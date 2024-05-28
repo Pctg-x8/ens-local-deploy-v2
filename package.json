@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "hardhat": "^2.22.4",
+    "viem": "^2.12.5"
+  },
+  "dependencies": {
+    "@ensdomains/ens-contracts": "^1.1.4"
+  }
+}
